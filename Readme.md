@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Employees.cs](./CS/slAttributesBasedValidation/Employees.cs) (VB: [Employees.vb](./VB/slAttributesBasedValidation/Employees.vb))
+* [MainPage.xaml](./CS/slAttributesBasedValidation/MainPage.xaml) (VB: [MainPage.xaml](./VB/slAttributesBasedValidation/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/slAttributesBasedValidation/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/slAttributesBasedValidation/MainPage.xaml))
+<!-- default file list end -->
 # How to Implement Attributes-Based Validation
 
 
